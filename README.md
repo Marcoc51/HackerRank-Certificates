@@ -7,4 +7,6 @@ It's for the certificates tests solutions
 1.	Student Analysis
 2.	Country Codes
 
-![SQL (Basic) Certificate](Users/marco/Downloads/download.png)
+<p align="center">
+<img src="https://github.com/Marcoc51/HackerRank-Certificates/blob/62b3c9d522efd26ae94739b42073cfb4e9c723e2/SQL%20(Basic)%20Certificate/Certificate.png" alt="SQL (Basic) Certificate" style="height: 500px; width:500px;"/>
+</p>
