@@ -19,3 +19,12 @@ It's for the certificates tests solutions
 <p align="center">
 <img src="https://github.com/Marcoc51/HackerRank-Certificates/blob/main/SQL%20(Intermediate)%20Certificate/SQL%20(Intermediate)%20Certificate.png" style="height: 500px; width:500px;"/>
 </p>
+
+- ### Python (Basic) Certificate
+
+1.	Reverse words order and swap cases
+2.	Transform Sentence
+
+<p align="center">
+<img src="https://github.com/Marcoc51/HackerRank-Certificates/blob/main/Python%20(Basic)%20Certificate/Python%20(Basic)%20Certificate.png" style="height: 500px; width:500px;"/>
+</p>
